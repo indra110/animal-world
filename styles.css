@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color: #5F7161;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #EFEAD8;
+  font-family: 'Fredoka One', cursive;
+  text-shadow: 3px 0 grey;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: 'Comfortaa', cursive;
+}
+
+.do {
+  background: url(images/1.png) center/90% no-repeat;
+}
+
+.ca {
+  background: url(images/2.png) center/90% no-repeat;
+}
+
+.l {
+  background: url(images/3.png) center/90% no-repeat;
+}
+
+.e {
+  background: url(images/4.png) center/90% no-repeat;
+}
+
+.h {
+  background: url(images/5.png) center/90% no-repeat;
+}
+
+.dr {
+  background: url(images/6.png) center/90% no-repeat;
+}
+
+.co {
+  background: url(images/7.png) center/90% no-repeat;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.animal {
+  outline: none;
+  border: 10px solid #6D8B74;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #000;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
